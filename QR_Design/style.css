@@ -1,35 +1,36 @@
-body{
-    background-color: hsl(212, 45%, 89%);
-    padding: 0;
-
+body {
+  background-color: hsl(212, 45%, 89%);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    border-radius: 5%;
-    background-color: white;
-    text-align: center;
-    width: 600px;
-
-
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 5%;
+  background-color: white;
+  text-align: center;
+  width: 480px;
 }
-img{
-    border-radius: 10%;
-    padding:15px;
-    width: 500px;
-
+img {
+  border-radius: 10%;
+  padding: 15px;
+  width: 400px;
+  height: 400px;
 }
 .text {
-text-align: center;
-padding: 30px;
+  text-align: center;
+  padding: 10px;
 }
-h1 p{
-    font-weight: 700px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+h1 p {
+  font-weight: 700px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(59, 50, 50);
 }
 
-h2{
-    font-weight: 400px;
-
+h2 {
+  font-weight: 400px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(146, 141, 141);
 }
