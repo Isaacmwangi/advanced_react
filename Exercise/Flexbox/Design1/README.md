@@ -1,5 +1,5 @@
 ## Here is a screenshot of my Design 1 on Google Mini Page with Flexbox
-![Design 1 Screenshot](Exercise/Flexbox/Design1/images/Screenshot.png)
+![Design 1 Screenshot](images/Screenshot.png)
 
 ### Project Overview
 - **HTML**: Semantic `<div>` elements for structured content.

@@ -1,5 +1,5 @@
 ## Here is a screenshot of Design 3
-![Design 3 Screenshot](Exercise/Flexbox/Design3/images/Screenshot.png)
+![Design 3 Screenshot](images/Screenshot.png)
 
 ### Project Overview
 - **HTML**: Structured the webpage with semantic elements and forms for account details.

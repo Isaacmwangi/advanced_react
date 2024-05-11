@@ -1,5 +1,5 @@
 ## Here is a screenshot of created QR Code design
-![QR Code Design Screenshot](Exercise/QR_Design/images/my_design_screenshot.png)
+![QR Code Design Screenshot](images/my_design_screenshot.png)
 
 
 ## Project Structure
