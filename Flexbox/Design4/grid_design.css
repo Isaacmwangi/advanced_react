@@ -1,0 +1,131 @@
+body {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    place-items: center;
+    background-color: rgb(241, 245, 245);
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 10px;
+    background-color: rgb(223, 229, 231);
+padding: 90px;
+border-radius: 6%;
+margin: 40px;
+border: 2px solid brown; 
+}
+
+.leftdiv {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    row-gap: 10px;
+    border-radius: 2%;
+}
+
+.rightdiv {
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    padding: 4px;
+    width: 200px; 
+    border-radius: 2%;
+
+}
+
+.daniel_jonathan {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 10px;
+}
+
+
+.jeanette_patric {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 10px;
+}
+
+
+.daniel,
+.jonathan,
+.jeanette,
+.patrick {
+    border-radius: 2%;
+    padding: 4px;
+    width: auto;
+}
+.daniel,
+.jonathan,
+.jeanette,
+.patrick,
+.rightdiv {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.daniel {
+    background-color: hsl(263, 55%, 52%);
+    width: 450px; 
+
+}
+
+.jonathan {
+    background-color: hsl(217, 19%, 35%);
+    width: 250px; 
+
+}
+
+.patrick {
+    background-color: hsl(219, 29%, 14%);
+    width: 450px; 
+}
+
+.jeanette {
+    background-color: hsl(0, 0%, 100%);
+    width: 250px; 
+}
+
+
+
+.title {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 10px;
+}
+
+.content {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    row-gap: 5px;
+}
+
+img {
+    width: 40px;
+}
+
+p,
+h2 {
+    color: aliceblue;
+}
+
+.rightdiv p,
+.jeanette p,
+.rightdiv h2,
+.jeanette h2 {
+    color: black;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.slogan {
+    font-size: 16px;
+    color: rgb(250, 235, 215);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
