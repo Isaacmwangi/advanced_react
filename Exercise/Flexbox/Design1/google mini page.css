@@ -8,15 +8,15 @@ body {
 
 .container {
   background-color: rgb(231, 239, 250);
-  width: 500px;
-  height: 680px;
+  width: 800px;
+  height: 1200px;
   display: flex;
   flex-direction: column;
   text-align: center;
   margin-top: 80px;
   border-radius: 10%;
   padding: 20px 10px 50px 10px;
-  font-size: 30px;
+  font-size: 50px;
 }
 
 .google_icon img {
@@ -33,7 +33,7 @@ body {
 }
 
 .social_media_icons img {
-  width: 40px;
+  width: 60px;
 }
 
 .name {
@@ -56,5 +56,5 @@ body {
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 20px;
-  font-size: 30px;
+  font-size: 40px;
 }
