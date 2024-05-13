@@ -1,5 +1,5 @@
 ## Here is a screenshot of CSS Flexbox Cards
-![Flexbox Cards Screenshot](Exercise\Flexbox\Design4\images\Screenshot.png)
+![Flexbox Cards Screenshot](images/Screenshot.png)
 
 ### Project Overview
 - **HTML**: Structured content using semantic `<div>` elements.
