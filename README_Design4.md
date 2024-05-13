@@ -1,6 +1,6 @@
 ## Here is a screenshot of Design 4
 
-![Design 4 Screenshot](Exercise/Flexbox/Design3/images/Screenshot.png)(Exercise\Flexbox\Design4\images\Screenshot.png)
+![Design 4 Screenshot](Exercise\Flexbox\Design4\images\Screenshot.png)
 
 
 ### Project Overview
