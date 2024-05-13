@@ -1,6 +1,6 @@
 ## Here is a screenshot of Design 4
 
-![Flexbox Cards Screenshot](Exercise\Flexbox\Design4\images\Screenshot.png)
+![Design 4 Screenshot](Exercise/Flexbox/Design4/Screenshot.png)
 
 ### Project Overview
 - **HTML**: Organized content into sections using nested `<div>` elements.
